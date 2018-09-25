@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<section lang="fr-FR">
+  <title>Réflexions scientifiques : Idées fausses</title>
+
+  <section>
+    <title>Introduction</title>
+
+    <para>« La terre est plate » est une idée qui fût bien longtemps accepté
+    comme réelle. Grâce aux études effectués au fur et à mesure du temps, nous
+    savons aujourd’hui que cette idée est fausse. Dans l’article d’aujourd’hui
+    nous allons voir comment ses idées reçus sont formés, et comment rétablir
+    une conception réelle.</para>
+
+    <para>Cette article est le second d’une série d’articles qui a pour but de
+    synthétiser et de réinterpréter le cours <ulink
+    url="https://www.edx.org/course/question-everything-scientific-thinking-in-real-life">
+    <phrase lang="zxx">« Question Everything : Scientific Thinking in real
+    life »</phrase> </ulink> de l’université de Queensland.</para>
+  </section>
+
+  <section>
+    <title>Pourquoi des idées fausses se forment ?</title>
+
+    <para>Une des premières méthodes pour la formation d’hypothèse est
+    l’observation. Si la quantité d’informations qu’on possède ou qu’on peux
+    observer est insuffisante pour obtenir la vérité, et que et que
+    l’hypothèse initiale semble logique, il est possible qu’une idée fausse se
+    forme dans l’esprit d’un individu.</para>
+
+    <para>Par ce même raisonnement, il est très bien possible que certaines
+    idées actuellement acceptés comme des faits de nos jours deviennent à
+    l’avenir des idées fausses si l’on obtient de nouvelles informations sur
+    le sujet.</para>
+  </section>
+
+  <section>
+    <title>Remplacer une idée fausse par une vérité</title>
+
+    <section>
+      <title>Étape 1 : Prouver que l’idée reçue est fausse</title>
+
+      <para>Pour prouver qu’une idée est fausse, il faut trouver des
+      situations ou l’ensemble de règles définissant cette idée est illogique.
+      Par exemple, si on considère l’idée « L’eau en bouteille est toujours
+      meilleurs que l’eau du robinet », et que l’on justifie cela par la
+      présence de substances potentiellement nocives dans l’eau du robinet et
+      pas dans l’eau en bouteille, mais que l’on se retrouve dans une
+      situation ou après analyse, l’eau en bouteille peux aussi contenir des
+      <ulink
+      url="http://time.com/3029191/bottled-water-ingredients-nutrition-health/">
+      <phrase lang="zxx">substances nocives</phrase> </ulink>, on peux en
+      déduire qu’une idée est fausse.</para>
+    </section>
+
+    <section>
+      <title>Étape 2 : Comprendre la vérité</title>
+
+      <para>Il faudra assembler les éléments de compréhension pour la nouvelle
+      conception, ou trouver un cadre dans laquelle l’on pourra accepter une
+      nouvelle idée ; On définira alors un raisonnement plus logique et plus
+      précis sur lequel on pourra baser un fait véridique.</para>
+    </section>
+
+    <section>
+      <title>Étape 3 : Vérifier la vérité</title>
+
+      <para>Enfin, il faut pouvoir « répliquer » la vérité, que le
+      raisonnement logique soit valable dans toutes les situations qu’il est
+      supposer vérifier.</para>
+
+      <para><emphasis role="bold"> <inlinemediaobject>
+          <imageobject>
+            <imagedata contentdepth="138" contentwidth="643" fileref=""/>
+          </imageobject>
+        </inlinemediaobject> </emphasis></para>
+    </section>
+  </section>
+
+  <section>
+    <title>Conclusion</title>
+
+    <para>Lorsqu’on est confronté aux domaine de la réflexion scientifique, il
+    est tout a fait normal que des idées fausses se forment, nous n’avons pas
+    toujours toutes les informations nécessaires pour comprendre un sujet. La
+    partie la plus difficile est de briser l’idée reçue qui a été ancré dans
+    notre esprit depuis longtemps, d’où l’importance de garder l’esprit ouvert
+    à de nouvelles idées tout en restant critique envers les informations que
+    nous recevons.</para>
+  </section>
+
+  <section>
+    <title>Sources</title>
+
+    <itemizedlist>
+      <listitem lang="en-US">
+        <para><ulink
+        url="https://www.edx.org/course/question-everything-scientific-thinking-in-real-life">Question
+        Everything: Scientific Thinking in Real Life</ulink></para>
+      </listitem>
+
+      <listitem>
+        <para><emphasis>Réflexions personnelles</emphasis></para>
+      </listitem>
+    </itemizedlist>
+  </section>
+
+  <section>
+    <title>Précédents articles dans la série</title>
+
+    <itemizedlist>
+      <listitem lang="zxx">
+        <para><ulink
+        url="https://www.supinfo.<sectionsingle/7536-reflexions-scientifiques-donnees-mesures">Réflexion
+        scientifique : Données et mesures</ulink></para>
+      </listitem>
+
+      <listitem lang="zxx">
+        <para><ulink
+        url="https://www.supinfo.com/articles/single/7540-reflexions-scientifiques-estimations-incertitudes">Réflexion
+        scientifique : Estimations et incertitudes</ulink></para>
+      </listitem>
+
+      <listitem lang="zxx">
+        <para><ulink
+        url="https://www.supinfo.com/articles/single/7566-reflexion-scientifique-preuves-opinions">Réflexion
+        scientifique : Preuves et opinions</ulink></para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</section>
